@@ -1,11 +1,14 @@
-{
-    "c1": {
+[
+    {
+        "__id__": "c1",
         "nombre": "saludable"
     },
-    "c2": {
-        "nombre": "balenceado"
+    {
+        "__id__": "c2",
+        "nombre": "balanceado"
     },
-    "c3": {
+    {
+        "__id__": "c3",
         "nombre": "no saludable"
     }
-}
+]
