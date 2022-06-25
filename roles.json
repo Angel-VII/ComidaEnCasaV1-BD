@@ -1,8 +1,10 @@
-{
-    "r1": {
+[
+    {
+        "__id__": "r1",
         "nombre": "cocinero"
     },
-    "r2": {
+    {
+        "__id__": "r2",
         "nombre": "participante"
     }
-}
+]
